@@ -1,0 +1,17 @@
+C:\Users\filip\Desktop\Loptica\Loptica\bin\Debug\net6.0-windows\Loptica.exe
+C:\Users\filip\Desktop\Loptica\Loptica\bin\Debug\net6.0-windows\Loptica.deps.json
+C:\Users\filip\Desktop\Loptica\Loptica\bin\Debug\net6.0-windows\Loptica.runtimeconfig.json
+C:\Users\filip\Desktop\Loptica\Loptica\bin\Debug\net6.0-windows\Loptica.dll
+C:\Users\filip\Desktop\Loptica\Loptica\bin\Debug\net6.0-windows\Loptica.pdb
+C:\Users\filip\Desktop\Loptica\Loptica\obj\Debug\net6.0-windows\Loptica.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\Loptica\Loptica\obj\Debug\net6.0-windows\Loptica.Form1.resources
+C:\Users\filip\Desktop\Loptica\Loptica\obj\Debug\net6.0-windows\Loptica.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Loptica\Loptica\obj\Debug\net6.0-windows\Loptica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\Loptica\Loptica\obj\Debug\net6.0-windows\Loptica.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\Loptica\Loptica\obj\Debug\net6.0-windows\Loptica.AssemblyInfo.cs
+C:\Users\filip\Desktop\Loptica\Loptica\obj\Debug\net6.0-windows\Loptica.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Loptica\Loptica\obj\Debug\net6.0-windows\Loptica.dll
+C:\Users\filip\Desktop\Loptica\Loptica\obj\Debug\net6.0-windows\refint\Loptica.dll
+C:\Users\filip\Desktop\Loptica\Loptica\obj\Debug\net6.0-windows\Loptica.pdb
+C:\Users\filip\Desktop\Loptica\Loptica\obj\Debug\net6.0-windows\Loptica.genruntimeconfig.cache
+C:\Users\filip\Desktop\Loptica\Loptica\obj\Debug\net6.0-windows\ref\Loptica.dll
